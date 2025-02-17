@@ -79,7 +79,7 @@ This repository contains the design details, CAD files, and implementation detai
 ## Repository and Additional Resources
 - **GitHub Repository:** [Robocon-2025](https://github.com/Mouli51ch/Robocon-2025)
 - **CAD Files & Source Code:** Available in the repository
-- **Explanation Video:** [Google Drive](https://drive.google.com/drive/folders/1NGXzD2RY2YW5PxN41SipGCi0Jzv5619P?usp=sharing)
+- **Explanation Video:** [Google Drive](https://drive.google.com/file/d/1xdpq3PQB3YNwEeO2mN4ExKmwJXCT3Ukx/view?usp=sharing)
 
 ## How to Use
 1. Clone the repository:
